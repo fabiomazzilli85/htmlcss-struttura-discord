@@ -125,3 +125,11 @@ a {
     background-color: rgb(19, 19, 72);
     padding: 20px;
 }
+
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: cadetblue;
+    padding: 8px;
+}
