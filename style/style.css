@@ -93,3 +93,22 @@ a {
     background-color: grey;
     padding: 10px;
 }
+
+.flex_color {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background-green {
+    background-color: green;
+    width: 1000px;
+    height: 1000px;
+}
+
+.flex-green {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
