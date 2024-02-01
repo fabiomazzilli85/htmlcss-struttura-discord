@@ -112,3 +112,16 @@ a {
     align-items: center;
     padding: 10px;
 }
+
+.class10 {
+    background-color: yellowgreen;
+    width: 10%;
+    height: 500px;
+    border-left: 2px dashed brown;
+    border-right: 2px dashed brown;
+}
+
+.background_night {
+    background-color: rgb(19, 19, 72);
+    padding: 20px;
+}
