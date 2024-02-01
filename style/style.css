@@ -17,3 +17,8 @@ ul, li, menu  {
     display: flex;
     flex-wrap: wrap;
 }
+
+a {
+    list-style-type: none;
+    text-decoration: none;
+}
