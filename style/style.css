@@ -88,3 +88,8 @@ a {
 .padding-container {
     padding: 15px;
 }
+
+.background_container {
+    background-color: grey;
+    padding: 10px;
+}
