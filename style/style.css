@@ -13,13 +13,21 @@ ul, li, menu  {
     margin: 0 auto ;
 }
 
-.container_padding {
-    padding: 10px;
+.padding_container {
+    padding: 15px;
 }
 
 .row {
     display: flex;
     flex-wrap: wrap;
+}
+
+.container_padding {
+    padding: 10px;
+}
+
+.logo {
+    justify-content:flex-start;
 }
 
 a {
@@ -36,26 +44,13 @@ a {
     padding: 7px;
 }
 
-.logo {
-    justify-content:flex-start;
-}
-
 .login {
     justify-content: flex-end;
-}
-
-.background_blue {
-    background-color: blue;
-    height: 400px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .navbar_background {
     background-color: aqua;
     padding: 7px;
-    
 }
 
 .background_pink {
@@ -71,10 +66,45 @@ a {
     align-items: center;
 }
 
+.background_night {
+    background-color: rgb(19, 19, 72);
+    padding: 20px;
+}
+
+.background_blue {
+    background-color: blue;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .background_pink_blue {
     background-color: blueviolet;
-
     height: 500px;
+}
+
+.background_green {
+    background-color: green;
+    height: 900px;
+}
+
+.background_container {
+    background-color: grey;
+    padding: 10px;
+}
+
+.flex_color {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex_green {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
 }
 
 .class60 {
@@ -89,33 +119,6 @@ a {
     height: 500px;
 }
 
-.padding_container {
-    padding: 15px;
-}
-
-.background_container {
-    background-color: grey;
-    padding: 10px;
-}
-
-.flex_color {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.background_green {
-    background-color: green;
-    height: 900px;
-}
-
-.flex_green {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 10px;
-}
-
 .class10 {
     background-color: yellowgreen;
     width: 10%;
@@ -123,12 +126,6 @@ a {
     border-left: 2px dashed brown;
     border-right: 2px dashed brown;
 }
-
-.background_night {
-    background-color: rgb(19, 19, 72);
-    padding: 20px;
-}
-
 
 .footer {
     display: flex;
