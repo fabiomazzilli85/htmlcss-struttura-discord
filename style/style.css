@@ -42,10 +42,49 @@ a {
 
 .background_blue {
     background-color: blue;
-    height: 450px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .nav-background {
     background-color: aqua;
     padding: 7px;
+    
+}
+
+.background_pink {
+    width: 750px;
+    height: 300px;
+    background-color: pink;
+}
+
+.background_white {
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background-pink-blue {
+    background-color: blueviolet;
+    width: 1000px;
+    height: 500px;
+}
+
+.class60 {
+    background-color: brown;
+    width: 60%;
+    height: 500px;
+}
+
+.class40 {
+    background-color: pink;
+    width: 40%;
+    height: 500px;
+}
+
+.padding-container {
+    padding: 15px;
 }
