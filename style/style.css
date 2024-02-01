@@ -39,3 +39,12 @@ a {
 .login {
     justify-content: flex-end;
 }
+
+.background_blue {
+    background-color: blue;
+    height: 450px;
+}
+
+.nav-background {
+    background-color: aqua;
+}
