@@ -48,7 +48,7 @@ a {
     align-items: center;
 }
 
-.nav-background {
+.nav_background {
     background-color: aqua;
     padding: 7px;
     
@@ -67,7 +67,7 @@ a {
     align-items: center;
 }
 
-.background-pink-blue {
+.background_pink_blue {
     background-color: blueviolet;
     width: 1000px;
     height: 500px;
@@ -85,7 +85,7 @@ a {
     height: 500px;
 }
 
-.padding-container {
+.padding_container {
     padding: 15px;
 }
 
@@ -100,13 +100,13 @@ a {
     align-items: center;
 }
 
-.background-green {
+.background_green {
     background-color: green;
     width: 1000px;
     height: 1000px;
 }
 
-.flex-green {
+.flex_green {
     display: flex;
     justify-content: center;
     align-items: center;
